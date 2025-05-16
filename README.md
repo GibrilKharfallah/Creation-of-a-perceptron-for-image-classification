@@ -40,11 +40,13 @@ To run this project, you need:
 - `matplotlib`
 - `numpy`
 - `scikit-learn`
+- `tqdm`
+- `plotly`
 
 You can install the dependencies using:
 
 ```bash
-pip install matplotlib numpy sklearn
+pip install matplotlib numpy sklearn tqdm plotly
 ```
 
 ## 📁 Usage
