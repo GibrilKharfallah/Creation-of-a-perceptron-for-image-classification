@@ -1,4 +1,4 @@
-# Perceptron Implementation
+# 🧠 NeuroMark : A Perceptron Implementation
 
 This project demonstrates the implementation of a **Perceptron**, used for binary classification tasks.
 
@@ -20,7 +20,7 @@ The goal is to showcase how a perceptron learns to classify linearly separable d
 - Visual representation of the classification process
 - Easy-to-understand code
 
-## 🧠 Algorithm
+## 🌳 Algorithm
 
 The perceptron follows these steps:
 
